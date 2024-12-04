@@ -12,7 +12,7 @@
     <template v-slot:body="props">
       <q-tr>
         <q-td  :props='props' key="questionOrder">
-          {{ props.row.questionOrder + 1}}
+          {{ props.row.questionOrder}}
         </q-td>
         <q-td :props="props" key="questionText">
           {{props.row.questionText}}
@@ -55,14 +55,16 @@ const rows = computed(() => store.data.map((item) => {
   }
 }))
 
+type Align = 'left' | 'center' | 'right';
+
 const columns = [
-  {name: 'questionOrder', label: '№ вопроса', field: 'questionOrder'},
-  {name: 'questionText', label: 'Текст вопроса', field: 'questionText'},
-  {name: 'answersCount', label: 'Количество ответов', field: 'answersCount'},
-  {name: 'answerType', label: 'Метод ответа', field: 'answerType'},
-  {name: 'fieldComment', label: 'Комментарий', field: 'fieldComment'},
-  {name: 'questionType', label: 'Опрос/Тест', field: 'questionType'},
-  {name: 'actions', label: '', field: 'actions'},
+  { name: 'questionOrder', label: '№ вопроса', field: 'questionOrder', align: 'center' as Align },
+  { name: 'questionText', label: 'Текст вопроса', field: 'questionText', align: 'center' as Align },
+  { name: 'answersCount', label: 'Количество ответов', field: 'answersCount', align: 'center' as Align },
+  { name: 'answerType', label: 'Метод ответа', field: 'answerType', align: 'center' as Align },
+  { name: 'fieldComment', label: 'Комментарий', field: 'fieldComment', align: 'center' as Align },
+  { name: 'questionType', label: 'Опрос/Тест', field: 'questionType', align: 'center' as Align },
+  { name: 'actions', label: '', field: 'actions', align: 'center' as Align },
 ];
 
 </script>
