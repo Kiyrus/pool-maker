@@ -1,8 +1,4 @@
 {
-  "pagination": {
-    "page": 1,
-    "rowsPerPage": 5
-  },
   "data": [
     {
       "questionId": 10,
@@ -202,6 +198,4529 @@
           " answerCorrect ": true,
           " logId ": 2003,
           " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10,
+      "questionOrder": 1,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 9,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 7,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8,
+      "questionOrder": 2,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10,
+      "questionOrder": 1,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 9,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 7,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8,
+      "questionOrder": 2,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10,
+      "questionOrder": 1,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 9,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 7,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8,
+      "questionOrder": 2,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10,
+      "questionOrder": 1,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 9,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 7,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8,
+      "questionOrder": 2,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10,
+      "questionOrder": 1,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 9,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 7,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8,
+      "questionOrder": 2,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },{
+      "questionId": 10,
+      "questionOrder": 1,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 9,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 7,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8,
+      "questionOrder": 2,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10,
+      "questionOrder": 1,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 9,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 7,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8,
+      "questionOrder": 2,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10,
+      "questionOrder": 1,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 9,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 7,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8,
+      "questionOrder": 2,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824,
+          "questionId": 1,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797,
+          "questionId": 10,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967,
+          "questionId": 10,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
+        }
+      ]
+    },
+    {
+      "questionId": 1099,
+      "questionOrder": 5,
+      "questionText": "Question text 5",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48245,
+          "questionId": 1099,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 37975,
+          "questionId": 1099,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59675,
+          "questionId": 1099,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 66925,
+          "questionId": 1099,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 33915,
+          "questionId": 1099,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": 3635,
+          "answerError": "Error message"
+        }
+      ]
+    },
+    {
+      "questionId": 82,
+      "questionOrder": 6,
+      "questionText": "Question text 2",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 48246,
+          "questionId": 82,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864,
+          "answerError": ""
+        },
+        {
+          "answerId": 37976,
+          "questionId": 82,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864",
+          "answerError": ""
+        },
+        {
+          "answerId": 59678,
+          "questionId": 82,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 10399,
+      "questionOrder": 7,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 400199,
+          "questionId": 10399,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 400299,
+          "questionId": 10399,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400399,
+          "questionId": 10399,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 400499,
+          "questionId": 10399,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 400599,
+          "questionId": 10399,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 10123,
+      "questionOrder": 8,
+      "questionText": "Question text 1",
+      "answersCount": 5,
+      "answersType": 3,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824123,
+          "questionId": 10123,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3797123,
+          "questionId": 10123,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864123",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967123,
+          "questionId": 10123,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": 4778123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 6692,
+          "questionId": 10123,
+          "answerOrder": 4,
+          "answerText": "Answer text 4",
+          "answerCorrect": true,
+          "logId": 7704123,
+          "answerError": "Error message"
+        },
+        {
+          "answerId": 3391,
+          "questionId": 10123,
+          "answerOrder": 5,
+          "answerText": "Answer text 5",
+          "answerCorrect": true,
+          "logId": "3635123",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 8321,
+      "questionOrder": 9,
+      "questionText": "Question text 9",
+      "answersCount": 5,
+      "answersType": 1,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "Question error message",
+      "answerList": [
+        {
+          "answerId": 4824321,
+          "questionId": 8321,
+          "answerOrder": 1,
+          "answerText": "Answer text 1",
+          "answerCorrect": false,
+          "logId": 5864321,
+          "answerError": ""
+        },
+        {
+          "answerId": 3797321,
+          "questionId": 8321,
+          "answerOrder": 2,
+          "answerText": "Answer text 2",
+          "answerCorrect": true,
+          "logId": "9864312",
+          "answerError": ""
+        },
+        {
+          "answerId": 5967321,
+          "questionId": 8321,
+          "answerOrder": 3,
+          "answerText": "Answer text 3",
+          "answerCorrect": false,
+          "logId": "4778321",
+          "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103456,
+      "questionOrder": 10,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001456,
+          "questionId": 103456,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002456,
+          "questionId": 103456,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003456,
+          "questionId": 103456,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004456,
+          "questionId": 103456,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004103456,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005456,
+          "questionId": 103456,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005103456,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006456,
+          "questionId": 103456,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 100103456,
+          "answerError": "Ошибка в ответе"
         }
       ]
     }

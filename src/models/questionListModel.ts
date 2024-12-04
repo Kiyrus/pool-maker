@@ -26,9 +26,5 @@ interface Questions {
 // Интерфейс для состояния хранилища опросов
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 interface questionList {
-  pagination: {
-    page: number,
-    rowsPerPage: number,
-  },
   data: Questions[];           // Массив вопросов с ответами
 }

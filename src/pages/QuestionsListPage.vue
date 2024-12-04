@@ -1,5 +1,5 @@
 <template>
-  <q-page class="row items-center justify-evenly">
+  <q-page class="scrollable-container">
     <question-list-component/>
   </q-page>
 </template>
@@ -9,7 +9,7 @@
 import QuestionListComponent from 'components/questionListComponent.vue';
 
 defineOptions({
-  name: 'IndexPage'
+  name: 'QuestionsListPage'
 });
 
 

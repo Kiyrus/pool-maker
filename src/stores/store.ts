@@ -3,10 +3,6 @@ import axios from 'axios';
 
 export const questionListStore = defineStore('questionListStore', {
   state: (): questionList => ({
-    pagination: {
-      page: 1,
-      rowsPerPage: 5,
-    },
     data: []
   }),
   actions: {

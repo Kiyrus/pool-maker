@@ -1,6 +1,13 @@
 // app global css in SCSS form
 @import "src/css/quasar.variables.scss";
 
+.scrollable-container {
+  width: 100%; /* Ширина контейнера */
+  height: 300px; /* Высота контейнера */
+  overflow: auto; /* Включаем прокрутку */
+  border: 1px solid #ccc; /* Граница для визуализации */
+}
+
 .leftSideDrawer{
   background: $secondary
 }

@@ -3,7 +3,7 @@
 
     <q-header elevated class="bg-primary text-white" height-hint="98">
       <q-toolbar>
-        <q-btn dense flat round icon="menu" @click="toggleLeftDrawer" />
+        <q-btn dense flat round :icon="functionalStoreUse.leftDrawerValue ? 'menu_open' : 'menu'" @click="functionalStoreUse.changeLeftDrawerValue()" />
 
         <q-toolbar-title>
           <q-avatar rounded>
@@ -12,27 +12,27 @@
           Pool Maker
         </q-toolbar-title>
       </q-toolbar>
-<!--  <q-tabs align="left">-->
-<!--    <q-route-tab to="/page1" label="Page One" />-->
-<!--    <q-route-tab to="/page2" label="Page Two" />-->
-<!--    <q-route-tab to="/page3" label="Page Three" />-->
-<!--  </q-tabs>-->
+<!--      <q-tabs align="left">-->
+<!--        <q-route-tab to="/page1" label="Page One" />-->
+<!--        <q-route-tab to="/page2" label="Page Two" />-->
+<!--        <q-route-tab to="/page3" label="Page Three" />-->
+<!--      </q-tabs>-->
     </q-header>
 
-    <q-drawer show-if-above v-model="leftDrawerOpen" side="left" behavior="desktop" class="leftSideDrawer">
+    <q-drawer v-model="functionalStoreUse.leftDrawerValue" side="left" behavior="desktop" class="leftSideDrawer">
       <q-scroll-area class="fit">
         <q-list padding class="menu-list">
-          <q-item active clickable v-ripple>
+          <q-item clickable v-ripple to="/list">
             <q-item-section avatar>
               <q-icon name="list" />
             </q-item-section>
 
             <q-item-section>
-              Questions List
+              List
             </q-item-section>
           </q-item>
 
-          <q-item clickable v-ripple>
+          <q-item clickable v-ripple to="/edit">
             <q-item-section avatar>
               <q-icon name="edit" />
             </q-item-section>
@@ -73,24 +73,19 @@
 </template>
 
 <script setup lang="ts">
-import { onMounted, ref } from 'vue';
+import { onMounted} from 'vue';
 import { questionListStore } from 'stores/store';
-
-defineOptions({
-  name: 'MainLayout'
-});
-
-const leftDrawerOpen = ref(false)
-const toggleLeftDrawer = () => {
-  leftDrawerOpen.value = !leftDrawerOpen.value
-}
-
+import { functionalStore } from 'stores/functional-store';
 
 const store = questionListStore();
+const functionalStoreUse = functionalStore()
 
 onMounted(() => {
   store.getQuestionList();
   console.log(store.data);
 })
 
+defineOptions({
+  name: 'MainLayout'
+});
 </script>
