@@ -7,10 +7,13 @@
     row-key='id'
     table-header-class='table--header'
     dense
-    v-model:pagination="store.pagination"
+    v-model:pagination='store.pagination'
+    :rows-per-page="[store.pagination.rowsPerPage]"
   >
     <template v-slot:body="props">
       <q-tr>
+        <q-td :props='props' key="actionsLeft">
+        </q-td>
         <q-td  :props='props' key="questionOrder">
           {{ props.row.questionOrder}}
         </q-td>
@@ -28,6 +31,8 @@
         </q-td>
         <q-td :props='props' key="questionType">
           {{ props.row.questionType ? "Опрос" : "Тест"}}
+        </q-td>
+        <q-td :props='props' key="actionsRight">
         </q-td>
       </q-tr>
     </template>
@@ -58,13 +63,14 @@ const rows = computed(() => store.data.map((item) => {
 type Align = 'left' | 'center' | 'right';
 
 const columns = [
+  { name: 'actionsLeft', label: '', field: 'actionsLeft', align: 'center' as Align },
   { name: 'questionOrder', label: '№ вопроса', field: 'questionOrder', align: 'center' as Align },
   { name: 'questionText', label: 'Текст вопроса', field: 'questionText', align: 'center' as Align },
   { name: 'answersCount', label: 'Количество ответов', field: 'answersCount', align: 'center' as Align },
   { name: 'answerType', label: 'Метод ответа', field: 'answerType', align: 'center' as Align },
   { name: 'fieldComment', label: 'Комментарий', field: 'fieldComment', align: 'center' as Align },
   { name: 'questionType', label: 'Опрос/Тест', field: 'questionType', align: 'center' as Align },
-  { name: 'actions', label: '', field: 'actions', align: 'center' as Align },
+  { name: 'actionsRigt', label: '', field: 'actionsRight', align: 'center' as Align },
 ];
 
 </script>

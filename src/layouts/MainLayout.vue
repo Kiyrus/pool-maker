@@ -19,8 +19,50 @@
 <!--  </q-tabs>-->
     </q-header>
 
-    <q-drawer show-if-above v-model="leftDrawerOpen" side="left" behavior="desktop">
-      <span>Some content</span>
+    <q-drawer show-if-above v-model="leftDrawerOpen" side="left" behavior="desktop" class="leftSideDrawer">
+      <q-scroll-area class="fit">
+        <q-list padding class="menu-list">
+          <q-item active clickable v-ripple>
+            <q-item-section avatar>
+              <q-icon name="list" />
+            </q-item-section>
+
+            <q-item-section>
+              Questions List
+            </q-item-section>
+          </q-item>
+
+          <q-item clickable v-ripple>
+            <q-item-section avatar>
+              <q-icon name="edit" />
+            </q-item-section>
+
+            <q-item-section>
+              Edit
+            </q-item-section>
+          </q-item>
+
+          <q-item clickable v-ripple>
+            <q-item-section avatar>
+              <q-icon name="send" />
+            </q-item-section>
+
+            <q-item-section>
+              Send
+            </q-item-section>
+          </q-item>
+
+          <q-item clickable v-ripple>
+            <q-item-section avatar>
+              <q-icon name="favorite" />
+            </q-item-section>
+
+            <q-item-section>
+              Favorite
+            </q-item-section>
+          </q-item>
+        </q-list>
+      </q-scroll-area>
     </q-drawer>
 
     <q-page-container>

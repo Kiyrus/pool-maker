@@ -5,7 +5,7 @@ export const questionListStore = defineStore('questionListStore', {
   state: (): questionList => ({
     pagination: {
       page: 1,
-      rowsPerPage: 10,
+      rowsPerPage: 5,
     },
     data: []
   }),

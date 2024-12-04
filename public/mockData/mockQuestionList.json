@@ -66,7 +66,7 @@
       "questionOrder": 2,
       "questionText": "Question text 2",
       "answersCount": 5,
-      "answerType": 1,
+      "answersType": 1,
       "fieldComment": true,
       "questionType": 1,
       "questionError": "Question error message",
@@ -78,7 +78,7 @@
           "answerText": "Answer text 1",
           "answerCorrect": false,
           "logId": 5864,
-          "answerError": "Error message"
+          "answerError": ""
         },
         {
           "answerId": 3797,
@@ -95,8 +95,113 @@
           "answerOrder": 3,
           "answerText": "Answer text 3",
           "answerCorrect": false,
-          "logId": 4778,
+          "logId": "4778",
           "answerError": ""
+        }
+      ]
+    },
+    {
+      "questionId": 103,
+      "questionOrder": 3,
+      "questionText": "Вопрос A",
+      "answersCount": 6,
+      "answersType": 2,
+      "fieldComment": true,
+      "questionType": 1,
+      "questionError": "",
+      "answerList": [
+        {
+          "answerId": 4001,
+          "questionId": 103,
+          "answerOrder": 1,
+          "answerText": "Ответ A1",
+          "answerCorrect": true,
+          "logId": 1001,
+          "answerError": ""
+        },
+        {
+          "answerId": 4002,
+          "questionId": 103,
+          "answerOrder": 2,
+          "answerText": "Ответ A2",
+          "answerCorrect": false,
+          "logId": 1002,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4003,
+          "questionId": 103,
+          "answerOrder": 3,
+          "answerText": "Ответ A3",
+          "answerCorrect": true,
+          "logId": 1003,
+          "answerError": ""
+        },
+        {
+          "answerId": 4004,
+          "questionId": 103,
+          "answerOrder": 4,
+          "answerText": "Ответ A4",
+          "answerCorrect": false,
+          "logId": 1004,
+          "answerError": "Ошибка в ответе"
+        },
+        {
+          "answerId": 4005,
+          "questionId": 103,
+          "answerOrder": 5,
+          "answerText": "Ответ A5",
+          "answerCorrect": true,
+          "logId": 1005,
+          "answerError": ""
+        },
+        {
+          "answerId": 4006,
+          "questionId": 103,
+          "answerOrder": 6,
+          "answerText": "Ответ A6",
+          "answerCorrect": false,
+          "logId": 1006,
+          "answerError": "Ошибка в ответе"
+        }
+      ]
+    },
+    {
+      "questionId": 104,
+      "questionOrder": 4,
+      "questionText": "Вопрос B",
+      "answersCount": 3,
+      "answersType": 2,
+      "fieldComment": false,
+      "questionType": 1,
+      "questionError": "",
+      " answerList": [
+        {
+          " answerId ": 5001,
+          " questionId ": 104,
+          " answerOrder ": 1,
+          " answerText ": "Ответ B1",
+          " answerCorrect ": true,
+          " logId ": 2001,
+          " answerError ": ""
+        },
+        {
+          " answerId ": 5002,
+          " questionId ": 104,
+          " answerOrder ": 2,
+          " answerText ": "Ответ B2",
+          " answerCorrect ": false,
+          " logId ": 2002,
+          " answerError ": "Ошибка в ответе"
+        },
+        {
+          " answerId ": 5003,
+          " questionId ": 104,
+          " answerOrder ": 3,
+          " answerText ": "Ответ B3",
+          " answerCorrect ": true,
+          " logId ": 2003,
+          " answerError ": ""
         }
       ]
     }
